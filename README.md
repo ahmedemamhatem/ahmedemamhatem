@@ -10,27 +10,28 @@ I'm a **certified ERPNext expert** with over **4 years** of experience specializ
 #### 🌐 **Technical Skills**
 - **ERPNext & Frappe Framework:**
   - Extensive experience in **custom app development**, **customizations**, **reporting**, and **API integration**.
-  - **Barcode label printing solutions** within ERPNext to streamline operations.
-  - **Custom API development** to facilitate smooth communication between systems.
-- **Programming Languages:**  
-  - **Python** for backend logic, scripting, and automation.
-  - **JavaScript** for frontend development and interactive user interfaces.
-  - **HTML & CSS** for crafting clean and responsive web designs.
+  - Expertise in **designing and implementing workflows**, **role-based access control**, and **multi-level approvals** to meet business process automation needs.
+  - **Barcode label printing solutions** within ERPNext to streamline operations and inventory management.
+  - **Custom API development** for integrating third-party systems, enabling seamless communication between ERPNext and external platforms like e-commerce, payment gateways, and logistics providers.
 - **Database Management:**  
-  - Proficient in **MariaDB**, ensuring optimal performance and security for ERP systems.
+  - Proficient in **MariaDB** with experience in **database optimization**, **indexing**, and **query performance tuning** for ERPNext deployments, ensuring faster data retrieval and system performance.
+  - Experience in **data migration** to and from ERPNext, handling large datasets with complex relationships and ensuring data integrity during migrations.
+  - Expertise in **backup and restore strategies** for ERPNext databases, ensuring minimal downtime and preventing data loss.
+  - Hands-on experience with **SQL queries** for bulk data management, custom reports, and manipulating records directly for enhanced control.
 - **Source Code Management:**  
-  - Hands-on experience with **GitHub**, **GitLab**, and **Bitbucket** for version control and collaboration.
+  - Hands-on experience with **GitHub**, **GitLab**, and **Bitbucket** for version control, collaborative development, and managing CI/CD pipelines.
 - **CI/CD Tools:**  
-  - Familiar with **Jenkins** and **ArgoCD** for continuous integration and deployment.
+  - Familiar with **Jenkins** and **ArgoCD** for continuous integration, deployment automation, and version management for ERPNext customizations.
 - **Project Management:**  
   - **Atlassian Jira** for agile project management, tracking issues, and managing team sprints.
 
 #### 💡 **Core Competencies**
-- **ERPNext Customization**: Tailored ERPNext solutions for client-specific needs.
-- **API Development**: Built and maintained APIs for seamless integrations.
-- **Team Leadership**: Leading development teams for delivering high-quality ERPNext solutions.
-- **Problem-Solving**: Diagnosing complex issues and delivering efficient fixes.
-- **Training & Documentation**: Conducting training sessions and preparing comprehensive technical documentation.
+- **ERPNext Customization**: Specialized in developing **custom modules**, **custom fields**, and **custom reports** for ERPNext to meet unique business requirements.
+- **Frappe Framework Development**: Proficient in developing applications using **Frappe**, building custom doctypes, hooks, and client-side scripting for enhanced user experiences.
+- **API Development & Integration**: Built and maintained **REST APIs** for ERPNext, allowing external systems to interact with ERPNext data seamlessly.
+- **Team Leadership**: Leading development teams for delivering high-quality ERPNext solutions, mentoring junior developers, and ensuring code quality through code reviews and best practices.
+- **Problem-Solving**: Diagnosing complex technical issues, optimizing system performance, and implementing efficient solutions.
+- **Training & Documentation**: Conducting training sessions for users and developers and preparing comprehensive technical documentation for custom features.
 
 ---
 
