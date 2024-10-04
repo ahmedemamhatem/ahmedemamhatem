@@ -45,6 +45,22 @@ I'm a **certified ERPNext expert** with over **4 years** of experience specializ
 
 ---
 
+### 🏭 **Experience with Industries**
+I have worked with various industries utilizing all ERPNext modules, including but not limited to:
+
+- **Accounting**: Financial accounting, billing, and invoicing.
+- **Inventory Management**: Stock management, warehouse operations, and stock reconciliation.
+- **Sales and Purchase**: Quotation management, sales order processing, and purchase order management.
+- **Manufacturing**: Production planning, bill of materials, and work orders.
+- **Human Resources**: Employee management, payroll processing, and attendance tracking.
+- **Project Management**: Project planning, task assignment, and project tracking.
+- **Customer Relationship Management (CRM)**: Lead management, customer support, and interaction tracking.
+- **Website**: Main setups, shopping cart integration, and website management.
+- **Retail**: Point of Sale (POS), multi-location retail management, and customer loyalty programs.
+- **Ecommerce**: Online store management, product catalogs, and order fulfillment.
+
+---
+
 ### 💼 **Professional Journey**
 
 #### **Frappe Development Team Lead**  
