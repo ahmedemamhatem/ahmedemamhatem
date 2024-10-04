@@ -1,4 +1,4 @@
-# Hi there 👋 I'm **Ahmed Emam!** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">  I'm **Ahmed Emam!** 
 
 I'm a **certified ERPNext expert** with over **4 years** of experience specializing in **ERPNext** and **Frappe** development, and more than **5 years in the IT industry**. My work revolves around **custom app development**, **API integrations**, and **ERPNext implementations**, helping businesses achieve seamless operations. I aim to build robust, scalable solutions tailored to meet unique business needs and contribute to open-source projects.
 
