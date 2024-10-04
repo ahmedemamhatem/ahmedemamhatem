@@ -118,3 +118,5 @@ I have worked with various industries utilizing all ERPNext modules, including b
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ahmed-emam-983606132)
 - [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/ahmedemamhatem)
 - [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=ahmedemamhatem@gmail.com)
+- [![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram)](https://t.me/012899889646)
+- [![WhatsApp](https://img.shields.io/badge/WhatsApp-green?style=flat&logo=whatsapp)](https://wa.me/2012899889646)
