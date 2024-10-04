@@ -1,4 +1,4 @@
-# Hi there 👋 I'm **Ahmed Emam!** ![Hi](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+# Hi there 👋 I'm **Ahmed Emam!** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 I'm a **certified ERPNext expert** with over **4 years** of experience specializing in **ERPNext** and **Frappe** development, and more than **5 years in the IT industry**. My work revolves around **custom app development**, **API integrations**, and **ERPNext implementations**, helping businesses achieve seamless operations. I aim to build robust, scalable solutions tailored to meet unique business needs and contribute to open-source projects.
 
@@ -86,5 +86,5 @@ I'm a **certified ERPNext expert** with over **4 years** of experience specializ
 
 ### 🌐 **Connect with Me**
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ahmed-emam-983606132)
-- ![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedemamhatem&show_icons=true&theme=radical)
+- [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/ahmedemamhatem)
 - **Email:** ahmedemamhatem@gmail.com
