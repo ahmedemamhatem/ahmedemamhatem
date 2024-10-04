@@ -101,4 +101,4 @@ I'm a **certified ERPNext expert** with over **4 years** of experience specializ
 ### 🌐 **Connect with Me**
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ahmed-emam-983606132)
 - [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/ahmedemamhatem)
-- [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:ahmedemamhatem@gmail.com)
+- [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=ahmedemamhatem@gmail.com)
