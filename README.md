@@ -1,268 +1,351 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ahmed%20Emam&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Senior%20Frappe/ERPNext%20Developer%20|%20Team%20Lead&descAlignY=52&descSize=18"/>
+<!-- Dynamic Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Ahmed%20Emam&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Senior%20Frappe%20Developer%20%7C%20Team%20Lead%20%7C%20ERP%20Architect&descAlignY=55&descSize=20"/>
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3584E4&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=4%2B+Years+ERPNext+%7C+5%2B+Years+IT+Industry;Building+Scalable+Business+Solutions;Open+Source+Contributor+%26+Tech+Enthusiast" alt="Typing SVG" /></a>
-
-<!-- Social Badges -->
-<p>
-<a href="https://www.linkedin.com/in/ahmed-emam-983606132"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:ahmedemamhatem@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://wa.me/201289988964"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-<a href="https://t.me/ahmedemamhatem"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-</p>
-
-<!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=ahmedemamhatem&style=for-the-badge&color=blue" alt="Profile Views"/>
+<!-- Animated Wave -->
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
 
 </div>
 
----
+<!-- Intro Section -->
+<h2>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Hey there! Welcome to my digital workspace
+</h2>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-```python
-class AhmedEmam:
-    def __init__(self):
-        self.name = "Ahmed Emam"
-        self.role = "Senior Frappe/ERPNext Developer & Team Lead"
-        self.location = "Dubai, UAE"
-        self.company = "Creative Advanced Technologies"
+```yaml
+name: Ahmed Emam
+located_in: Dubai, UAE
+current_job: Frappe Development Team Lead
+company: Creative Advanced Technologies
 
-    def skills(self):
-        return {
-            "backend": ["Python", "Frappe Framework", "ERPNext", "REST APIs"],
-            "frontend": ["JavaScript", "HTML5", "CSS3", "Jinja2"],
-            "database": ["MariaDB", "MySQL", "PostgreSQL"],
-            "devops": ["Docker", "Git", "CI/CD", "Linux"],
-            "tools": ["VS Code", "Postman", "Jira", "GitHub Actions"]
-        }
+education:
+  - Bachelor's in Management Information Systems
 
-    def current_focus(self):
-        return "Building enterprise solutions & leading development teams"
+fields_of_interests:
+  - ERP Systems
+  - Business Process Automation
+  - API Development & Integration
+  - Cloud Architecture
+  - Team Leadership
+
+currently_learning:
+  - Advanced System Architecture
+  - AI Integration with ERPNext
+
+hobbies:
+  - Open Source Contributing
+  - Technical Writing
+  - Problem Solving
 ```
 
----
-
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> Tech Stack
-
-<div align="center">
-
-### Core Technologies
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Frappe](https://img.shields.io/badge/Frappe-0089FF?style=for-the-badge&logo=frappe&logoColor=white)
-![ERPNext](https://img.shields.io/badge/ERPNext-0089FF?style=for-the-badge&logo=erpnext&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-
-### Database & Backend
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
-### Cloud & Hosting
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Frappe Cloud](https://img.shields.io/badge/Frappe_Cloud-0089FF?style=for-the-badge&logo=frappe&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
-
-</div>
+<br clear="both">
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> GitHub Analytics
+<!-- Stats Section -->
+<h2>
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
+  GitHub Analytics
+</h2>
+
+<p align="center">
+  <a href="https://github.com/ahmedemamhatem">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahmedemamhatem&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahmedemamhatem&layout=compact&langs_count=8&theme=algolia&hide_border=true&bg_color=0d1117"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedemamhatem&theme=algolia&hide_border=true&background=0d1117" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ahmedemamhatem&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy"/>
+</p>
+
+<!-- Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedemamhatem&bg_color=0d1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+</p>
+
+---
+
+<!-- Tech Stack -->
+<h2>
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2gy3z5&rid=giphy.gif" width="30">
+  Tech Arsenal
+</h2>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmedemamhatem&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedemamhatem&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedemamhatem&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
+### Languages & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,bootstrap,jquery&theme=dark" />
+</p>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmedemamhatem&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophy"/>
+### ERP & Business Platforms
+<p>
+  <img src="https://img.shields.io/badge/Frappe-0089FF?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAA0UlEQVR4nGNgGAWkgv///zMwMjL+Z2Bg+A8F/0EYKv4fXT4jI+N/kCKQ4v+MjIz/0RX9R1P4H6wQRTE6+I+u8D+GYoTi/xBFyIr/MzEx/f+PpOg/E9P//yBFcMX//yMrADuZiQmhGEkB2ImMjExgp/wHu/E/lA11+n8WFpb/+BQzMTH9B2mAK0R2CkyAhYUFrBhZIVQBps3oAEMhGw8P23+GEBaW/58+fVJgYmL6//79eyYY5uNj/g+TY2Fh+f/+/Xt4OPyHxifE/LAARLsRCgDTInQa8OcOlgAAAABJRU5ErkJggg==&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ERPNext-0089FF?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAA0UlEQVR4nGNgGAWkgv///zMwMjL+Z2Bg+A8F/0EYKv4fXT4jI+N/kCKQ4v+MjIz/0RX9R1P4H6wQRTE6+I+u8D+GYoTi/xBFyIr/MzEx/f+PpOg/E9P//yBFcMX//yMrADuZiQmhGEkB2ImMjExgp/wHu/E/lA11+n8WFpb/+BQzMTH9B2mAK0R2CkyAhYUFrBhZIVQBps3oAEMhGw8P23+GEBaW/58+fVJgYmL6//79eyYY5uNj/g+TY2Fh+f/+/Xt4OPyHxifE/LAARLsRCgDTInQa8OcOlgAAAABJRU5ErkJggg==&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jinja2-B41717?style=for-the-badge&logo=jinja&logoColor=white"/>
+</p>
+
+### Database & Storage
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,redis,postgres&theme=dark" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
+</p>
+
+### DevOps & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,aws,git,github&theme=dark" />
+</p>
+
+### Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,postman&theme=dark" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Frappe_Cloud-0089FF?style=for-the-badge&logoColor=white"/>
+</p>
+
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> Featured Projects
+<!-- Experience Section -->
+<h2>
+  <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+  Professional Journey
+</h2>
 
 <div align="center">
 
-[![CRM Integration](https://github-readme-stats.vercel.app/api/pin/?username=ahmedemamhatem&repo=crm_integration&theme=tokyonight&hide_border=true)](https://github.com/ahmedemamhatem/crm_integration)
-[![Expenses Management](https://github-readme-stats.vercel.app/api/pin/?username=ahmedemamhatem&repo=expenses_management&theme=tokyonight&hide_border=true)](https://github.com/ahmedemamhatem/expenses_management)
+```mermaid
+%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#0089FF', 'primaryTextColor': '#fff', 'primaryBorderColor': '#5BCDEC', 'lineColor': '#5BCDEC', 'secondaryColor': '#0d1117', 'tertiaryColor': '#161b22'}}}%%
+timeline
+    title My Career Path
+    2019 : IT System Manager
+         : Riadco 2000 Office Furniture
+         : Infrastructure & ERPNext Support
+    2020 : ERPNext Consultant
+         : Makkatech (Remote)
+         : Customizations & Integrations
+    2021 : Techno Functional Consultant
+         : ERP Cloud Systems
+         : Training & Cloud Management
+    2022 : Frappe/ERPNext Developer
+         : Creative Advanced Technologies
+         : Custom Apps & API Development
+    2024 : Team Lead
+         : Creative Advanced Technologies
+         : Leading Dev Team & Architecture
+```
 
 </div>
 
-### Key Projects
+<br>
 
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| **CRM Integration** | WhatsApp integration with ERPNext for customer communication, automated messaging, and document sharing | Python, Frappe, WhatsApp API |
-| **Expenses Management** | Complete expense tracking and management system with approval workflows | Python, Frappe, ERPNext |
-| **Custom ERPNext Modules** | Various industry-specific customizations for manufacturing, retail, and services | Python, JavaScript, MariaDB |
-| **E-commerce Integrations** | API integrations with Salla, WooCommerce, and other platforms | REST APIs, Python, Webhooks |
-| **ZATCA Compliance** | Saudi Arabia e-invoicing compliance implementation | Python, XML, Cryptography |
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+### Current Role
+<img src="https://img.shields.io/badge/🚀_Team_Lead-Creative_Advanced_Technologies-0089FF?style=for-the-badge"/>
+
+**Key Responsibilities:**
+- 👥 Lead team of Frappe developers
+- 🏗️ Architect enterprise solutions
+- 🤝 Client relationship management
+- 📋 Project planning & delivery
+- 🎯 Code reviews & mentoring
+
+</td>
+<td align="center" width="50%">
+
+### Core Expertise
+<img src="https://img.shields.io/badge/💼_5+_Years-IT_Industry-success?style=for-the-badge"/>
+
+**Specializations:**
+- 🔧 ERPNext Customization
+- 🌐 REST API Development
+- 📊 Business Intelligence
+- 🔄 System Integration
+- 📦 Module Development
+
+</td>
+</tr>
+</table>
 
 ---
 
-## <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="28"> Professional Experience
+<!-- Projects Section -->
+<h2>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
+  Featured Projects
+</h2>
+
+<div align="center">
+
+<a href="https://github.com/ahmedemamhatem/crm_integration">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedemamhatem&repo=crm_integration&theme=algolia&hide_border=true&bg_color=0d1117" />
+</a>
+<a href="https://github.com/ahmedemamhatem/expenses_management">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedemamhatem&repo=expenses_management&theme=algolia&hide_border=true&bg_color=0d1117" />
+</a>
+
+</div>
+
+<br>
+
+<details>
+<summary><b>🔥 View All Key Projects</b></summary>
+<br>
+
+| Project | Description | Tech Stack | Status |
+|:--------|:------------|:-----------|:------:|
+| **CRM Integration** | WhatsApp Business integration with ERPNext - automated messaging, document sharing, customer communication | `Python` `Frappe` `WhatsApp API` | ![Active](https://img.shields.io/badge/Active-brightgreen) |
+| **Expenses Management** | Complete expense tracking system with multi-level approval workflows | `Python` `Frappe` `ERPNext` | ![Active](https://img.shields.io/badge/Active-brightgreen) |
+| **ZATCA E-Invoicing** | Saudi Arabia tax compliance & e-invoicing implementation | `Python` `XML` `Cryptography` | ![Production](https://img.shields.io/badge/Production-blue) |
+| **Salla Integration** | E-commerce sync between Salla platform and ERPNext | `REST API` `Webhooks` `Python` | ![Production](https://img.shields.io/badge/Production-blue) |
+| **Custom Manufacturing** | Industry-specific manufacturing module with advanced BOM | `Python` `JavaScript` `MariaDB` | ![Production](https://img.shields.io/badge/Production-blue) |
+| **HR Automation** | Automated payroll processing & attendance management | `Python` `Frappe` `HRMS` | ![Production](https://img.shields.io/badge/Production-blue) |
+
+</details>
+
+---
+
+<!-- Industry Section -->
+<h2>
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30">
+  Industry Expertise
+</h2>
+
+<div align="center">
 
 <table>
 <tr>
-<td align="center" width="150">
-<img src="https://img.shields.io/badge/2024-Present-blue?style=for-the-badge"/>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/48/accounting.png" width="40"/><br>
+<b>Finance</b><br>
+<sub>GL, AR, AP, Budgeting</sub>
 </td>
-<td>
-<strong>Frappe Development Team Lead</strong><br/>
-Creative Advanced Technologies - Dubai, UAE<br/>
-<em>Leading development teams, architecting solutions, managing client projects</em>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/48/warehouse.png" width="40"/><br>
+<b>Inventory</b><br>
+<sub>Stock, Batch, Serial</sub>
 </td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/2022-2024-green?style=for-the-badge"/>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/48/shopping-cart.png" width="40"/><br>
+<b>Sales</b><br>
+<sub>Orders, Invoicing, CRM</sub>
 </td>
-<td>
-<strong>Frappe/ERPNext Developer</strong><br/>
-Creative Advanced Technologies - Dubai, UAE<br/>
-<em>Custom app development, API integrations, system implementations</em>
-</td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/2021-2022-orange?style=for-the-badge"/>
-</td>
-<td>
-<strong>ERPNext Techno Functional Consultant</strong><br/>
-ERP Cloud Systems - Cairo, Egypt<br/>
-<em>ERPNext customizations, training, cloud hosting management</em>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/48/factory.png" width="40"/><br>
+<b>Manufacturing</b><br>
+<sub>BOM, Work Orders, QC</sub>
 </td>
 </tr>
 <tr>
 <td align="center">
-<img src="https://img.shields.io/badge/2020-2022-yellow?style=for-the-badge"/>
+<img src="https://img.icons8.com/fluency/48/conference-call.png" width="40"/><br>
+<b>HR & Payroll</b><br>
+<sub>Attendance, Leave, Salary</sub>
 </td>
-<td>
-<strong>ERPNext Consultant</strong><br/>
-Makkatech - Saudi Arabia (Remote)<br/>
-<em>Remote consulting, system upgrades, third-party integrations</em>
-</td>
-</tr>
-<tr>
 <td align="center">
-<img src="https://img.shields.io/badge/2019-2021-red?style=for-the-badge"/>
+<img src="https://img.icons8.com/fluency/48/project-management.png" width="40"/><br>
+<b>Projects</b><br>
+<sub>Tasks, Timesheets, Billing</sub>
 </td>
-<td>
-<strong>IT System Manager</strong><br/>
-Riadco 2000 Office Furniture<br/>
-<em>IT infrastructure management, ERPNext support & training</em>
+<td align="center">
+<img src="https://img.icons8.com/fluency/48/online-store.png" width="40"/><br>
+<b>E-commerce</b><br>
+<sub>Integration, Sync, Orders</sub>
+</td>
+<td align="center">
+<img src="https://img.icons8.com/fluency/48/pos-terminal.png" width="40"/><br>
+<b>Retail & POS</b><br>
+<sub>Multi-location, Loyalty</sub>
 </td>
 </tr>
 </table>
 
+</div>
+
 ---
 
-## Certifications
+<!-- Certifications -->
+<h2>
+  <img src="https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="30">
+  Certifications
+</h2>
 
 <div align="center">
 
-| Certification | Issuer | Year |
-|:---:|:---:|:---:|
-| ![ERPNext](https://img.shields.io/badge/Certified-ERPNext_Developer-0089FF?style=flat-square&logo=erpnext&logoColor=white) | Frappe/ERPNext | 2024 |
-| ![Python](https://img.shields.io/badge/Python-Data_Science-3776AB?style=flat-square&logo=python&logoColor=white) | Coursera | 2021 |
-| ![Git](https://img.shields.io/badge/Git-GitHub_Mastery-F05032?style=flat-square&logo=git&logoColor=white) | Udemy | 2023 |
+<img src="https://img.shields.io/badge/🏆_Certified-ERPNext_Developer_(2024)-0089FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🎓_Python-Data_Science_(2021)-3776AB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📜_Git-GitHub_Mastery_(2023)-F05032?style=for-the-badge"/>
 
 </div>
 
 ---
 
-## Industry Expertise
-
-<div align="center">
-
-| Domain | Modules & Features |
-|--------|-------------------|
-| **Finance & Accounting** | GL, AR, AP, Cost Centers, Budgeting, Financial Reports |
-| **Inventory & Warehouse** | Stock Management, Batch/Serial Tracking, Multi-warehouse |
-| **Sales & Purchase** | Quotations, Orders, Invoicing, Pricing Rules |
-| **Manufacturing** | BOM, Work Orders, Production Planning, Quality Control |
-| **HR & Payroll** | Employee Management, Attendance, Payroll, Leave Management |
-| **CRM** | Leads, Opportunities, Customer Support, Communication |
-| **Retail & POS** | Point of Sale, Multi-location, Loyalty Programs |
-| **E-commerce** | Online Store Integration, Order Sync, Inventory Sync |
-
-</div>
-
----
-
-## Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedemamhatem&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
-</div>
-
----
-
-## Education
-
-<div align="center">
-<table>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/Bachelor's_Degree-Management_of_Information_Systems-gold?style=for-the-badge"/>
-</td>
-</tr>
-</table>
-</div>
-
----
-
-## Let's Connect!
+<!-- Connect Section -->
+<h2>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
+  Let's Connect
+</h2>
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/ahmed-emam-983606132">
-  <img src="https://img.shields.io/badge/Let's_connect_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
 </a>
-
 <a href="mailto:ahmedemamhatem@gmail.com">
-  <img src="https://img.shields.io/badge/Send_me_an-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"/>
 </a>
-
 <a href="https://wa.me/201289988964">
-  <img src="https://img.shields.io/badge/Chat_on-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366"/>
+</a>
+<a href="https://t.me/ahmedemamhatem">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=26A5E4"/>
+</a>
+<a href="https://github.com/ahmedemamhatem">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"/>
 </a>
 
-</div>
+<br><br>
 
-<br/>
+<!-- Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=ahmedemamhatem&style=for-the-badge&color=0089FF&label=PROFILE+VIEWS"/>
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+<br><br>
+
+<!-- Quote -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" alt="Random Dev Quote"/>
+
 </div>
 
 ---
 
 <div align="center">
 
-### "Building robust ERP solutions that drive business growth"
+### 💭 Philosophy
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+> *"Building robust ERP solutions that transform businesses and drive growth through technology innovation."*
+
+<br>
+
+<!-- Snake Animation -->
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+<br>
+
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer"/>
 
 </div>
